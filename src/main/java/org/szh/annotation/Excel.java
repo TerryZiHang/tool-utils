@@ -21,9 +21,10 @@ public @interface Excel {
     //字段值显示顺序(从左到右)
     int sort() default 20;
 
-    //是否选择下拉
+    //是否单元格选择下拉
     boolean select() default false;
     
     //格式化价格
     boolean formatPrice() default false;
+    
 }
