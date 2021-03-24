@@ -6,6 +6,66 @@
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
+    <option name="ignoredPathMasks">
+      <list>
+        <option value="HELP.md" />
+        <option value="target/" />
+        <option value="!.mvn/wrapper/maven-wrapper.jar" />
+        <option value="!**/src/main/**" />
+        <option value="!**/src/test/**" />
+        <option value="###" />
+        <option value="STS" />
+        <option value="###" />
+        <option value=".apt_generated" />
+        <option value=".classpath" />
+        <option value=".factorypath" />
+        <option value=".project" />
+        <option value=".settings" />
+        <option value=".springBeans" />
+        <option value=".sts4-cache" />
+        <option value="###" />
+        <option value="IntelliJ" />
+        <option value="IDEA" />
+        <option value="###" />
+        <option value=".idea" />
+        <option value="*.iws" />
+        <option value="*.iml" />
+        <option value="*.ipr" />
+        <option value="*.log" />
+        <option value="###" />
+        <option value="NetBeans" />
+        <option value="###" />
+        <option value="/nbproject/private/" />
+        <option value="/nbbuild/" />
+        <option value="/dist/" />
+        <option value="/nbdist/" />
+        <option value="/.nb-gradle/" />
+        <option value="build/" />
+        <option value="###" />
+        <option value="VS" />
+        <option value="Code" />
+        <option value="###" />
+        <option value=".vscode/" />
+        <option value="$PROJECT_DIR$/../../../" />
+        <option value="###" />
+        <option value="Example" />
+        <option value="user" />
+        <option value="template" />
+        <option value="template" />
+        <option value="###" />
+        <option value="Example" />
+        <option value="user" />
+        <option value="template" />
+        <option value="#" />
+        <option value="IntelliJ" />
+        <option value="project" />
+        <option value="files" />
+        <option value=".idea" />
+        <option value="*.iml" />
+        <option value="out" />
+        <option value="gen" />
+      </list>
+    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
